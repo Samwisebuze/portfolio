@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sbuzas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://samuelbuzas.com
+  * I am sbuzas (https://keybase.io/sbuzas) on keybase.
+  * I have a public key ASDwLie80Q3OSg1wQ04H7ZhaoMyXRjMeWm5OSalU-z3dCQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f02e27bcd10dce4a0d70434e07ed985aa0cc9746331e5a6e4e49a954fb3ddd090a",
+      "host": "keybase.io",
+      "kid": "0120f02e27bcd10dce4a0d70434e07ed985aa0cc9746331e5a6e4e49a954fb3ddd090a",
+      "uid": "5bf5a39907dde2041b905c9e92e4c819",
+      "username": "sbuzas"
+    },
+    "merkle_root": {
+      "ctime": 1536724377,
+      "hash": "225f04cec02c181a7bf932400c78991dfb6371a7a3c2bbd20f6e9cac3bb6bc2fe7dc003f43fe208c73407eb96e48ea6fc7090b71ed8563ac9addc1974f888aff",
+      "hash_meta": "28351d7450e5bf937540c23683d6c5595d253e8d517ece261138625e99e8c3e6",
+      "seqno": 3597351
+    },
+    "service": {
+      "entropy": "JHAP8moUD7csKic7ef5z1c9h",
+      "hostname": "samuelbuzas.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1536724398,
+  "expire_in": 504576000,
+  "prev": "c2508ef1c070f75739ac24bed6f263441e9f16d37c9cb2adae9efeead53e6dcb",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8C4nvNENzkoNcENOB+2YWqDMl0YzHlpuTkmpVPs93QkKp3BheWxvYWTESpcCCMQgwlCO8cBw91c5rCS+1vJjRB6fFtN8nLKtrp7+6tU+bcvEICyCna6gKFgOoZQNp29D2dkLYKWor64tocvwpWZzQwoyAgHCo3NpZ8RAv4+LqXlXzw6Eq9EsQF0VtxMUw+rtzt1jcOB2bMEYxTODvLU9DbZxKRVR8zU4Ncfmxtq9l4zxwDf/BTusPgcDDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKagSHBTAkUO2UCNpcdotYiI+RZ9XXoomooBQXVlm1NPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sbuzas
+
+==================================================================
