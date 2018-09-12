@@ -33,15 +33,15 @@ author: "Samuel Buzas"
 title: "{ Samuel Buzas }"
 description: "Blog and portfolio site of Samuel Buzas, blogging mainly for tech. Opinions expressed are mine."
 keywords: "buzas, samuel, personal, jekyll, theme"
-favicon: "/assets/assets/img/favicon.ico"
+favicon: "/assets/img/favicon.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/assets/assets/img/black-lab-glass.ico"
+black-favicon: "/assets/img/black-lab-glass.ico"
 
-background-img: "/assets/assets/img/intro-bg.jpg"
+background-img: "/assets/img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
