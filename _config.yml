@@ -166,7 +166,7 @@ email: "buzassg@mail.uc.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "Samuel Buzas is an awesome person. He lives in Cincinnati, where he studies Computer Science and works as a Web Developer. In his spare time, Sam likes to play Dungeons and Dragons."
+author_blurb: "Samuel Buzas is an awesome person. He lives in Cincinnati, where he studies Computer Science and works as a Full-stack wdWeb Developer. In his spare time, Sam likes to play Dungeons and Dragons."
 author_blurb_image: "/assets/img/author.png"
 
 ##################
@@ -193,7 +193,7 @@ err-404-img: "/assets/img/labtocat.png"
 
 keybase-username: sbuzas
 keybase-in-social: True
-keybase-in-footer: True
+keybase-in-footer: False
 
 ################################################################################
 
