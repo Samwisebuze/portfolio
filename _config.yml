@@ -55,7 +55,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Hello World!My Name is <b> Samuel Buzas</b>."
+  - text: "Hello World! My Name is <b> Samuel Buzas</b>."
   - text: "Where’s your will to be <span id='rainbow'>weird?</span>"
   - text: "That the powerful play goes on, and you may contribute a verse."
 
