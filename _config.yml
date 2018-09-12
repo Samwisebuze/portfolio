@@ -48,15 +48,16 @@ background-img: "/assets/img/intro-bg.jpg"
 ##############################
 
 dynamic-typing: True
-shuffle: True # Shuffle the lines.
+shuffle: False # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
+  - text: "Hello World!<br/>My Name is Samuel Buzas."
   - text: "Where’s your will to be weird?"
+  - text: "That the powerful play goes on, and you may contribute a verse."
 
 # me-img: "/assets/img/jetpacktocat.png"
 
