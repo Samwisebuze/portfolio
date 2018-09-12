@@ -169,8 +169,6 @@ author_blurb_image: "/assets/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
