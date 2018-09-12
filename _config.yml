@@ -222,12 +222,12 @@ sass:
 
 # HTML minification
 compress_html:
-  clippings: []
-  comments: []
-  endings: []
+  clippings: all
+  comments: all
+  endings: all
   ignore:
   envs: []
-  blanklines: false
+  blanklines: true
   profile: false
   startings: []
 
