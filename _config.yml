@@ -134,10 +134,10 @@ syntax-highlight: True
 events:
   - image: "/assets/img/timeline/spidertocat.png"
     date: "Current"
-    description: "Software Analyst at Learn21"
+    description: "Software Analyst Coop at Learn21"
   - image: "/assets/img/timeline/glimmar-icon.png"
     date: "Current"
-    description: "Back-End Developr for glimmar"
+    description: "Back-End Developer for Glimmar"
   - image: "/assets/img/timeline/baracktocat.jpg"
     date: "August 2017 - December 2017"
     description: "Software Engineer Coop with ICR"
