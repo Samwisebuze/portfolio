@@ -133,11 +133,15 @@ syntax-highlight: True
 
 events:
   - image: "/assets/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "August 2015"
+    description: "Started college at UC!"
   - image: "/assets/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "August 2017 - December 2017"
+    description: "Coop with ICR"
+  - image: "/assets/img/timeline/spidertocat.png"
+    date: "May 2018 - Today"
+    description: "Working at Learn21"
+  
 
 # First image of the Timeline
 
@@ -157,7 +161,7 @@ email: "buzassg@mail.uc.edu"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "Samuel Buzas is an awesome person. He lives in Cincinnati, where he studies Computer Science and works as a Web Developer. In his spare time, Sam likes to play Dungeons and Dragons."
 author_blurb_image: "/assets/img/author.png"
 
 ##################
@@ -171,8 +175,6 @@ social:
     url: "https://twitter.com/"
   - title: "github"
     url: "https://github.com/samwisebuze"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
