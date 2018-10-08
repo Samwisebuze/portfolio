@@ -132,6 +132,9 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/assets/img/timeline/uc.png"
+    date: "April - 2020"
+    description: "This is when I'll will graduate from UC."
   - image: "/assets/img/timeline/default.png"
     date: "Current"
     description: "Software Analyst Coop at Learn21"
@@ -141,7 +144,7 @@ events:
   - image: "/assets/img/timeline/baracktocat.jpg"
     date: "August 2017 - December 2017"
     description: "Software Engineer Coop with ICR"
-  - image: "/assets/img/timeline/spidertocat.png"
+  - image: "/assets/img/timeline/uc.png"
     date: "August 2015"
     description: "Started college at UC!"
 
