@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Where’s your will to be <span id='rainbow'>weird?</span>"
   - text: "That the powerful play goes on, and you may contribute a verse."
 
-me-img: "/assets/img/headshot.JPG"
+# me-img: "/assets/img/author.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -72,7 +72,7 @@ me-img: "/assets/img/headshot.JPG"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/samwisebuze.png?size=500"
+me-img: "https://github.com/samwisebuze.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
@@ -132,7 +132,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/assets/img/timeline/learn21-logo.png"
+  - image: "/assets/img/timeline/default.png"
     date: "Current"
     description: "Software Analyst Coop at Learn21"
   - image: "/assets/img/timeline/glimmar-icon.png"
@@ -150,7 +150,7 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/assets/img/vida.JPG"
+timeline-img: "/assets/img/jetpacktocat.png"
 
 ###########
 # Contact #
