@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Samuel Buzas"
-title: "{ Samuel Buzas }"
+title: "Samuel Buzas"
 description: "Blog and portfolio site of Samuel Buzas, blogging mainly for tech. Opinions expressed are mine."
 keywords: "buzas, samuel, personal, jekyll, theme"
 favicon: "/assets/img/favicon.ico"
