@@ -160,7 +160,7 @@ timeline-img: "/assets/img/jetpacktocat.png"
 ############
 
 projects:
-  - image: "/assets/img/projects/default.png"
+  - img: "/assets/img/projects/default.png"
     title: "My Github"
     url: "github.com/samwisebuze"
     description: "This is my github profile. I post alot of things here. Check it out and follow me to stay up to date!"
