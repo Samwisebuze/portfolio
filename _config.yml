@@ -167,10 +167,11 @@ projects:
   - title: "revN"
     url: "https://github.com/ACMWatUC/revN"
     description: "A web-based solution for tracking volunteer check-ins and hours for the Bearcat Coders program. Still in the works."
+    img: "/assets/img/projects/Hughes.png"
   - title: "Dungeon Master Tools"
     url: "https://github.com/Samwisebuze/DMOST"
     description: "A personal project to make my life as a DM easier and make playing more fun for the whole party."
-
+    img: "/assets/img/projects/dmtool.png"
 ###########
 # Contact #
 ###########
