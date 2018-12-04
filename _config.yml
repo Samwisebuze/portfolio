@@ -162,7 +162,7 @@ timeline-img: "/assets/img/jetpacktocat.png"
 projects:
   - title: "My Github"
     img: "https://avatars1.githubusercontent.com/u/16690404?s=450&v=4"
-    url: "github.com/samwisebuze"
+    url: "https://github.com/samwisebuze"
     description: "This is my github profile. I post alot of things here. Check it out and follow me to stay up to date!"
   - title: "revN"
     url: "https://github.com/ACMWatUC/revN"
@@ -195,7 +195,7 @@ author_blurb_image: "/assets/img/author.png"
 
 social:
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/pythonclassbot"
   - title: "github"
     url: "https://github.com/samwisebuze"
   - title: "rss"
