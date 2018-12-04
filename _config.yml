@@ -155,6 +155,16 @@ events:
 
 timeline-img: "/assets/img/jetpacktocat.png"
 
+############
+# Projects #
+############
+
+projects:
+  - image: "/assets/img/projects/default.png"
+    title: "My Github"
+    url: "github.com/samwisebuze"
+    description: "This is my github profile. I post alot of things here. Check it out and follow me to stay up to date!"
+
 ###########
 # Contact #
 ###########
@@ -206,6 +216,7 @@ keybase-in-footer: False
 
 pages_list:
   About: 'about'
+  Projects: 'projects'
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'

@@ -1,0 +1,31 @@
+<!-- Start Projects-->
+	
+	<section id="{{ page.section-type }}" class="container content-section text-center" >
+		<div class="row pack">
+			{% for project in site.projects %}  
+			 
+            <div class="col-md-4 card">
+             <a href="{{ project.url | prepend: site.baseurl }}" class="index-anchor">    
+                <div class="panel panel-default">
+                  
+                  {% if project.img %}
+                  <img width="100%" src="{{site.baseurl}}/assets/img/projects/{{project.img}}" alt="{{project.title}}">
+                  {% else %}
+                  <img width="100%" src="{{site.baseurl}}/assests/img/projects/default.png" alt="{{site.title}}">
+                  {% endif %}
+                  
+                  <div class="panel-body">
+                    <h3 class="panel-title pull-left">{{ project.title | truncate: 25 }}</h3>
+                  </div>
+                  
+                  <div class="panel-body"><small>
+                    {{ project.description | truncate: 250 }}</small>
+                  </div>
+                </div>
+                </a>
+            </div>
+        
+			{% endfor %}
+		</div>
+	</section>
+<!-- End Projects-->
