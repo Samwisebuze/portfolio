@@ -165,11 +165,9 @@ projects:
     url: "github.com/samwisebuze"
     description: "This is my github profile. I post alot of things here. Check it out and follow me to stay up to date!"
   - title: "revN"
-    img: ""
     url: "https://github.com/ACMWatUC/revN"
     description: "A web-based solution for tracking volunteer check-ins and hours for the Bearcat Coders program. Still in the works."
   - title: "Dungeon Master Tools"
-    img: ""
     url: "https://github.com/Samwisebuze/DMOST"
     description: "A personal project to make my life as a DM easier and make playing more fun for the whole party."
 
