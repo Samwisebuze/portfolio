@@ -9,7 +9,7 @@
                 <div class="panel panel-default">
                   
                   {% if project.img %}
-                  <img width="100%" src="{{project.img} | prepend: site.baseurl}" alt="{{project.title}}">
+                  <img width="100%" src="{{project.img | prepend: site.baseurl}}" alt="{{project.title}}">
                   {% else %}
                   <img width="100%" src="{{site.baseurl}}/assets/img/projects/default.png" alt="{{site.title}}">
                   {% endif %}
