@@ -253,6 +253,6 @@ compress_html:
   profile: false
   startings: []
 
-gems:
+plugins:
   - jekyll-paginate
   - jemoji
